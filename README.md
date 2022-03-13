@@ -3,4 +3,4 @@ Code for the article "How to Create an Interactive Web Application using Jupyter
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spookycek/dotaznik_app/HEAD?labpath=all.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spookycek/dotaznik_app/HEAD?labpath=%2Fviola%2Frender%2Fall.ipynb)
