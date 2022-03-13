@@ -114,7 +114,7 @@ spinners==0.0.24
 tabulate==0.8.9
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.6.0
+tensorboard-plugin-wit==1.7.0
 tensorflow==2.7.0
 tensorflow-estimator==2.7.0
 tensorflow-gpu==2.7.0
