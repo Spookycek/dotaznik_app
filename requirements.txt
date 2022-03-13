@@ -67,7 +67,7 @@ log-symbols==0.0.14
 matplotlib==3.5.1
 
 mkl-fft==1.2.0
-mkl-random==1.0.4
+mkl-random==1.2.0
 mkl-service==2.3.0
 moviepy==1.0.3
 
